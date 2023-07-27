@@ -7,6 +7,7 @@ ROS1
 ```
 cd catkin_ws/src
 git clone https://github.com/KOKIAOKI/ros1bag_to_pcd.git
+cd ..
 catkin_make -DCMAKE_BUILD_TYPE=Release
 ```
 
